@@ -1,4 +1,3 @@
- <script>
     // Scroll Animation
     const sections = document.querySelectorAll('.fade-in');
     window.addEventListener('scroll', () => {
@@ -20,4 +19,4 @@
         themeToggle.textContent = "🌙 Dark Mode";
       }
     });
-  </script>
+
