@@ -8,14 +8,14 @@
 
 /* Light Theme */
 body {
-  background: #f9fafc;
+  background: light pink;
   color: #333;
   transition: background 0.3s, color 0.3s;
 }
 
 /* Dark Theme */
 body.dark-mode {
-  background: #121212;
+  background: gray;
   color: #e0e0e0;
 }
 
@@ -191,4 +191,5 @@ footer {
     margin: 1rem;
     padding: 1rem;
   }
+
 }
